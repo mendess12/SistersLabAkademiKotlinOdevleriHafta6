@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SistersLabAkademiKotlinOdevleriHafta6Soru2</string>
+    <string name="home">Home Screen</string>
+    <string name="game">Game Screen</string>
+    <string name="result">Result Screen</string>
+    <string name="go_to_game_screen">Go to game screen</string>
+    <string name="go_to_result_screen">Go to result screen</string>
+</resources>

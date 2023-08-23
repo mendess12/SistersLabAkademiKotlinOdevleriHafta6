@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SistersLabAkademiKotlinOdevleriHafta6Soru1</string>
+    <string name="user_name">Enter user name</string>
+    <string name="password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+</resources>
