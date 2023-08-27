@@ -6,9 +6,10 @@
 ### UI Tsasrımları 
 
 ### Soru1
-[question-one.webm](https://github.com/mendess12/SistersLabAkademiKotlinOdevleriHafta6/assets/76566952/e22f416f-1cda-4e3d-bc62-dda7dc335fea)
+[question-one.webm](https://github.com/mendess12/SistersLabAkademiKotlinOdevleriHafta6/assets/76566952/7c4238d4-20e3-4d75-a009-9866afe9a03e)
 
 ### Soru2
-[question-two.webm](https://github.com/mendess12/SistersLabAkademiKotlinOdevleriHafta6/assets/76566952/24ac1443-0673-4811-9c13-1f9fb9b059f9)
+[question-two.webm](https://github.com/mendess12/SistersLabAkademiKotlinOdevleriHafta6/assets/76566952/081b368d-3dc6-4941-8041-e80a2fd69d33)
+
 
 
